@@ -28,9 +28,9 @@ If you prefer to use a pre-built Windows executable, you can download it from th
 
 Once installed, you can use the tool via the command line. Here’s a basic example:
 ```bash
-./pdfImgExtract <path-to-your-pdf-file>
+./pdfImgExtract
 ```
-Replace <path-to-your-pdf-file> with the path to the PDF you want to process. The tool will extract images from the PDF and save them in the current directory.
+You'll be prompted to enter the name of the PDF you want to process. The tool will extract images from the PDF and save them in the current directory.
 
 ### License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
