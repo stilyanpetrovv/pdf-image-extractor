@@ -1,4 +1,4 @@
-module https://github.com/stilyanpetrovv/pdf-image-extractor
+module github.com/stilyanpetrovv/pdf-image-extractor
 
 go 1.23.1
 
