@@ -20,10 +20,6 @@ To install PDF Image Extractor, use the `go install` command:
 go install github.com/stilyanpetrovv/pdf-image-extractor@latest
 ```
 
-### Download Windows Executable
-
-If you prefer to use a pre-built Windows executable, you can download it from the [Releases page](https://github.com/stilyanpetrovv/pdf-image-extractor/releases) of this repository. Look for the `pdfImgExtract.exe` file in the latest release.
-
 ## Usage
 
 Once installed, you can use the tool via the command line. Here’s a basic example:
